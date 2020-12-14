@@ -1,0 +1,30 @@
+h1{
+    color: dodgerblue;
+    font-family: cursive;
+    font-size: 100px;
+    text-align: center;
+    
+}
+
+body{
+    background-color: black;
+}
+
+#aimg{
+    width: 400px;
+    position: relative;
+    top: -100px;
+    
+}
+
+#aimg:hover{
+    opacity: 75%;
+}
+
+p{
+    color: white;
+    text-align: center;
+    font-family: cursive;
+    font-size: 75px;
+}
+
